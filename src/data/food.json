@@ -1,0 +1,97 @@
+[
+    {
+        "nazwa": "Pizza Pepperoni",
+        "kcal": 285,
+        "waga": 150
+    },
+    {
+        "nazwa": "Hamburger",
+        "kcal": 250,
+        "waga": 120
+    },
+    {
+        "nazwa": "Cheeseburger",
+        "kcal": 300,
+        "waga": 140
+    },
+    {
+        "nazwa": "Frytki",
+        "kcal": 365,
+        "waga": 200
+    },
+    {
+        "nazwa": "Hot Dog",
+        "kcal": 150,
+        "waga": 90
+    },
+    {
+        "nazwa": "Chicken Nuggets",
+        "kcal": 260,
+        "waga": 100
+    },
+    {
+        "nazwa": "Krążki Cebulowe",
+        "kcal": 320,
+        "waga": 120
+    },
+    {
+        "nazwa": "Kanapka z Grillowanym Serem",
+        "kcal": 350,
+        "waga": 160
+    },
+    {
+        "nazwa": "Rolka Cynamonowa",
+        "kcal": 180,
+        "waga": 80
+    },
+    {
+        "nazwa": "Burrito",
+        "kcal": 420,
+        "waga": 200
+    },
+    {
+        "nazwa": "Lody Waniliowe",
+        "kcal": 230,
+        "waga": 100
+    },
+    {
+        "nazwa": "Koktajl Truskawkowy",
+        "kcal": 120,
+        "waga": 350
+    },
+    {
+        "nazwa": "Kanapka z Szynką i Serem",
+        "kcal": 320,
+        "waga": 140
+    },
+    {
+        "nazwa": "Krewetki w Panierce",
+        "kcal": 280,
+        "waga": 120
+    },
+    {
+        "nazwa": "Spaghetti Carbonara",
+        "kcal": 420,
+        "waga": 200
+    },
+    {
+        "nazwa": "Kebab Wołowy",
+        "kcal": 450,
+        "waga": 180
+    },
+    {
+        "nazwa": "Sushi Rolka California",
+        "kcal": 320,
+        "waga": 160
+    },
+    {
+        "nazwa": "Nachos",
+        "kcal": 350,
+        "waga": 120
+    },
+    {
+        "nazwa": "Kanapka BLT",
+        "kcal": 450,
+        "waga": 200
+    }
+]

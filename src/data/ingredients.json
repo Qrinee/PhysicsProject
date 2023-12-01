@@ -1,0 +1,52 @@
+[
+    {
+        "nazwa": "Jabłko",
+        "kcal": 52,
+        "waga": 150
+    },
+    {
+        "nazwa": "Banan",
+        "kcal": 89,
+        "waga": 120
+    },
+    {
+        "nazwa": "Marchewka",
+        "kcal": 15,
+        "waga": 100
+    },
+    {
+        "nazwa": "Cytryna",
+        "kcal": 29,
+        "waga": 120
+    },
+    {
+        "nazwa": "Kapusta",
+        "kcal": 300,
+        "waga": 150
+    },
+    {
+        "nazwa": "Ogórek",
+        "kcal": 24,
+        "waga": 100
+    },
+    {
+        "nazwa": "Papryka",
+        "kcal": 31,
+        "waga": 150
+    },
+    {
+        "nazwa": "Pomidor",
+        "kcal": 30,
+        "waga": 150
+    },
+    {
+        "nazwa": "Brokuł",
+        "kcal": 34,
+        "waga": 100
+    },
+    {
+        "nazwa": "Truskawka",
+        "kcal": 5,
+        "waga": 12
+    }
+]
